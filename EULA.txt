@@ -1,0 +1,50 @@
+User License Agreement (ULA)
+============================
+
+IMPORTANT: PLEASE READ THIS LICENSE AGREEMENT CAREFULLY BEFORE USING THIS SOFTWARE.
+BY USING THE "Advanced Disease Diagnosis" EXECUTABLE (the "Software"), YOU AGREE TO BE BOUND
+BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE SOFTWARE.
+
+1. License Grant
+----------------
+The Developer, Jose Ricky A. Gelbolingo, grants you a non-exclusive, non-transferable license 
+to use the Software for personal and non-commercial purposes only.
+
+2. Distribution and Installation
+----------------------------------
+This Software is provided as a pre-built executable file. No source code is provided.
+You may install and run the Software on your personal computer. Redistribution, modification, 
+or reverse-engineering of the executable is strictly prohibited.
+
+3. User Feedback and Data
+-------------------------
+The Software features an integrated feedback mechanism. When you confirm a disease diagnosis 
+(using the "Confirm Actual Disease" button), the confirmation is saved locally in a file named 
+"feedback.json". This feedback is used solely to improve the internal matching algorithm in 
+future evaluations. No personal data is transmitted externally.
+
+4. Developer Information
+------------------------
+Developer: Jose Ricky A. Gelbolingo
+Contact Number: 09673071950
+GitHub: https://github.com/SirJorick
+
+5. Warranty Disclaimer and Limitation of Liability
+---------------------------------------------------
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING 
+BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND 
+NON-INFRINGEMENT. IN NO EVENT SHALL THE DEVELOPER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, 
+SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE.
+
+6. Termination
+--------------
+This Agreement will terminate automatically if you fail to comply with any of its terms. Upon 
+termination, you must immediately cease using the Software and delete any copies of the executable 
+and associated files.
+
+7. Governing Law
+----------------
+This Agreement is governed by and construed in accordance with the laws applicable in your jurisdiction.
+
+BY USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, 
+AND AGREE TO BE BOUND BY ITS TERMS.

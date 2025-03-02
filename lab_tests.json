@@ -1,0 +1,1100 @@
+{
+  "common_tests": [
+    {
+      "name": "WBC",
+      "description": "White Blood Cell count, an indicator of immune status."
+    },
+    {
+      "name": "White Blood Cell",
+      "description": "Alternate label for WBC count."
+    },
+    {
+      "name": "RBC",
+      "description": "Red Blood Cell count, essential for oxygen transport."
+    },
+    {
+      "name": "Red Blood Cell",
+      "description": "Alternate label for RBC count."
+    },
+    {
+      "name": "Platelet Count",
+      "description": "Measures the number of platelets, critical for clotting."
+    },
+    {
+      "name": "Hemoglobin",
+      "description": "Indicates the blood's oxygen-carrying capacity; used to diagnose anemia."
+    },
+    {
+      "name": "Hematocrit",
+      "description": "The percentage of blood volume occupied by red blood cells."
+    },
+    {
+      "name": "MCV",
+      "description": "Mean Corpuscular Volume; average size of red blood cells."
+    },
+    {
+      "name": "MCH",
+      "description": "Mean Corpuscular Hemoglobin; average amount of hemoglobin per red blood cell."
+    },
+    {
+      "name": "MCHC",
+      "description": "Mean Corpuscular Hemoglobin Concentration; concentration of hemoglobin in red blood cells."
+    },
+    {
+      "name": "CBC",
+      "description": "Complete Blood Count; includes WBC, RBC, hemoglobin, hematocrit, and platelets."
+    },
+    {
+      "name": "ESR",
+      "description": "Erythrocyte Sedimentation Rate; a marker of inflammation."
+    },
+    {
+      "name": "CRP",
+      "description": "C-reactive protein; a marker for acute inflammation."
+    },
+    {
+      "name": "C-reactive protein",
+      "description": "Alternate label for CRP."
+    },
+    {
+      "name": "Glucose",
+      "description": "Measures blood sugar levels."
+    },
+    {
+      "name": "Fasting Blood Sugar",
+      "description": "Measures blood glucose after a period of fasting."
+    },
+    {
+      "name": "Blood Sugar",
+      "description": "General measurement of blood sugar levels."
+    },
+    {
+      "name": "HbA1c",
+      "description": "Glycated hemoglobin; indicates average blood glucose over 2–3 months."
+    },
+    {
+      "name": "Hemoglobin A1c",
+      "description": "Alternate label for HbA1c."
+    },
+    {
+      "name": "Glucose Tolerance",
+      "description": "Evaluates the body's ability to metabolize glucose."
+    },
+    {
+      "name": "Lipid Panel",
+      "description": "Measures cholesterol, LDL, HDL, and triglycerides to assess cardiovascular risk."
+    },
+    {
+      "name": "Cholesterol",
+      "description": "Total cholesterol measurement."
+    },
+    {
+      "name": "LDL",
+      "description": "Low-Density Lipoprotein; often considered 'bad' cholesterol."
+    },
+    {
+      "name": "HDL",
+      "description": "High-Density Lipoprotein; often considered 'good' cholesterol."
+    },
+    {
+      "name": "Triglycerides",
+      "description": "Measures the level of triglycerides in the blood."
+    },
+    {
+      "name": "Liver Function Panel",
+      "description": "A collection of tests (ALT, AST, ALP, GGT, bilirubin, albumin) to assess liver health."
+    },
+    {
+      "name": "ALT",
+      "description": "Alanine transaminase; indicates liver cell injury."
+    },
+    {
+      "name": "AST",
+      "description": "Aspartate transaminase; used to evaluate liver function."
+    },
+    {
+      "name": "ALP",
+      "description": "Alkaline phosphatase; enzyme involved in liver and bone health."
+    },
+    {
+      "name": "GGT",
+      "description": "Gamma-glutamyl transferase; elevated in bile duct disease."
+    },
+    {
+      "name": "Bilirubin",
+      "description": "Measures bilirubin, a breakdown product of hemoglobin."
+    },
+    {
+      "name": "Albumin",
+      "description": "A liver-produced protein, reflecting nutritional and liver function."
+    },
+    {
+      "name": "Globulin",
+      "description": "Group of proteins in the blood involved in immune function."
+    },
+    {
+      "name": "A/G Ratio",
+      "description": "Albumin-to-globulin ratio; used to evaluate liver and kidney function."
+    },
+    {
+      "name": "BUN",
+      "description": "Blood Urea Nitrogen; marker for kidney function."
+    },
+    {
+      "name": "Creatinine",
+      "description": "Waste product used to assess kidney function."
+    },
+    {
+      "name": "eGFR",
+      "description": "Estimated Glomerular Filtration Rate; indicator of kidney function."
+    },
+    {
+      "name": "Renal Panel",
+      "description": "A group of tests to evaluate kidney health, including electrolytes, BUN, and creatinine."
+    },
+    {
+      "name": "Electrolyte Panel",
+      "description": "Measures sodium, potassium, chloride, and bicarbonate."
+    },
+    {
+      "name": "Sodium",
+      "description": "Measurement of blood sodium levels."
+    },
+    {
+      "name": "Potassium",
+      "description": "Measurement of blood potassium levels."
+    },
+    {
+      "name": "Chloride",
+      "description": "Measurement of blood chloride levels."
+    },
+    {
+      "name": "Bicarbonate",
+      "description": "Measurement of bicarbonate in the blood; reflects acid-base balance."
+    },
+    {
+      "name": "Calcium",
+      "description": "Measurement of blood calcium; important for bones and muscles."
+    },
+    {
+      "name": "Phosphate",
+      "description": "Measurement of blood phosphate levels."
+    },
+    {
+      "name": "Magnesium",
+      "description": "Measurement of blood magnesium levels."
+    },
+    {
+      "name": "Thyroid Panel",
+      "description": "A set of tests (TSH, T3, T4) to assess thyroid function."
+    },
+    {
+      "name": "TSH",
+      "description": "Thyroid-stimulating hormone; key for thyroid function."
+    },
+    {
+      "name": "T3",
+      "description": "Triiodothyronine; a thyroid hormone."
+    },
+    {
+      "name": "T4",
+      "description": "Thyroxine; the primary hormone produced by the thyroid."
+    },
+    {
+      "name": "TPO Antibody",
+      "description": "Tests for thyroid peroxidase antibodies; helps diagnose autoimmune thyroid disease."
+    },
+    {
+      "name": "Thyroglobulin Antibody",
+      "description": "Tests for antibodies against thyroglobulin."
+    },
+    {
+      "name": "Vitamin D",
+      "description": "Measures the level of Vitamin D in the blood."
+    },
+    {
+      "name": "Vitamin B12",
+      "description": "Measures the level of Vitamin B12."
+    },
+    {
+      "name": "Folate",
+      "description": "Measures folate (Vitamin B9) levels."
+    },
+    {
+      "name": "Folic Acid",
+      "description": "Alternate name for folate."
+    },
+    {
+      "name": "Vitamin K",
+      "description": "Important for blood clotting; measured in some cases."
+    },
+    {
+      "name": "Vitamin C",
+      "description": "Measures Vitamin C levels."
+    },
+    {
+      "name": "Iron Panel",
+      "description": "Includes serum iron, ferritin, and TIBC to assess iron status."
+    },
+    {
+      "name": "Ferritin",
+      "description": "Indicates the amount of stored iron in the body."
+    },
+    {
+      "name": "TIBC",
+      "description": "Total Iron Binding Capacity; reflects the blood's capacity to bind iron."
+    },
+    {
+      "name": "Transferrin",
+      "description": "A protein that transports iron in the blood."
+    },
+    {
+      "name": "Transferrin Saturation",
+      "description": "Percentage of transferrin saturated with iron."
+    },
+    {
+      "name": "Rheumatoid Factor",
+      "description": "Antibody used in diagnosing rheumatoid arthritis."
+    },
+    {
+      "name": "Anti-CCP",
+      "description": "Anti-cyclic citrullinated peptide antibody test; specific for rheumatoid arthritis."
+    },
+    {
+      "name": "ANA",
+      "description": "Antinuclear antibody test for autoimmune disorders."
+    },
+    {
+      "name": "Urinalysis",
+      "description": "Examines urine for cells, chemicals, and other substances."
+    },
+    {
+      "name": "Urine Culture",
+      "description": "Detects bacteria in urine to diagnose infection."
+    },
+    {
+      "name": "Stool Culture",
+      "description": "Detects pathogens in stool samples."
+    },
+    {
+      "name": "Fecal Occult Blood Test",
+      "description": "Detects hidden blood in stool; used for cancer screening."
+    },
+    {
+      "name": "FOBT",
+      "description": "Alternate term for Fecal Occult Blood Test."
+    },
+    {
+      "name": "NS1",
+      "description": "Dengue NS1 antigen test."
+    },
+    {
+      "name": "CT Scan",
+      "description": "Computed Tomography scan for cross-sectional imaging."
+    },
+    {
+      "name": "MRI",
+      "description": "Magnetic Resonance Imaging for detailed soft-tissue imaging."
+    },
+    {
+      "name": "PCR",
+      "description": "Polymerase Chain Reaction test to amplify and detect DNA."
+    },
+    {
+      "name": "Antigen Test",
+      "description": "Detects specific antigens from pathogens."
+    },
+    {
+      "name": "Antibody Test",
+      "description": "Detects antibodies, indicating previous exposure to a pathogen."
+    },
+    {
+      "name": "ELISA",
+      "description": "Enzyme-Linked Immunosorbent Assay, a common immunoassay."
+    },
+    {
+      "name": "Spirometry",
+      "description": "Assesses lung function by measuring airflow."
+    },
+    {
+      "name": "Peak Flow",
+      "description": "Measures the maximum speed of expiration."
+    },
+    {
+      "name": "Mantoux Test",
+      "description": "Tuberculin skin test to detect exposure to tuberculosis."
+    },
+    {
+      "name": "Chest X-Ray",
+      "description": "Radiographic imaging of the chest."
+    },
+    {
+      "name": "ECG",
+      "description": "Electrocardiogram to evaluate heart rhythm."
+    },
+    {
+      "name": "Electrocardiogram",
+      "description": "Alternate label for ECG."
+    },
+    {
+      "name": "Echocardiogram",
+      "description": "Ultrasound imaging of the heart."
+    },
+    {
+      "name": "Pulse Oximetry",
+      "description": "Measures oxygen saturation in the blood."
+    },
+    {
+      "name": "Oxygen Saturation",
+      "description": "Percentage of oxygen in the blood."
+    },
+    {
+      "name": "SpO2",
+      "description": "Alternate label for oxygen saturation."
+    },
+    {
+      "name": "Procalcitonin",
+      "description": "Biomarker for bacterial infections and sepsis."
+    },
+    {
+      "name": "D-dimer",
+      "description": "Assesses blood clot formation and breakdown."
+    },
+    {
+      "name": "Troponin",
+      "description": "Cardiac enzyme test used to diagnose heart attacks."
+    },
+    {
+      "name": "CK-MB",
+      "description": "Creatine kinase-MB, a marker for cardiac damage."
+    },
+    {
+      "name": "NT-proBNP",
+      "description": "N-terminal pro B-type natriuretic peptide; used to diagnose heart failure."
+    },
+    {
+      "name": "BNP",
+      "description": "B-type natriuretic peptide test for heart failure."
+    },
+    {
+      "name": "Arterial Blood Gas",
+      "description": "Measures pH, oxygen, and carbon dioxide levels in blood."
+    },
+    {
+      "name": "Blood Gas",
+      "description": "Alternate term for arterial blood gas analysis."
+    },
+    {
+      "name": "Ultrasound",
+      "description": "Uses sound waves to produce images of internal organs."
+    },
+    {
+      "name": "Endoscopy",
+      "description": "Procedure using a camera to examine the interior of the gastrointestinal tract."
+    },
+    {
+      "name": "Colonoscopy",
+      "description": "Examination of the colon using a camera."
+    },
+    {
+      "name": "Pap Smear",
+      "description": "Screening test for cervical cancer."
+    },
+    {
+      "name": "HPV Test",
+      "description": "Test for Human Papillomavirus infection."
+    },
+    {
+      "name": "Home Blood Pressure",
+      "description": "Measurement of blood pressure using a home monitor."
+    },
+    {
+      "name": "Home Glucose",
+      "description": "Measurement of blood glucose using a home glucometer."
+    },
+    {
+      "name": "COVID Test",
+      "description": "Test for COVID-19 infection."
+    },
+    {
+      "name": "Rapid Test",
+      "description": "A quick diagnostic test for various conditions."
+    },
+    {
+      "name": "SARS-CoV-2 Test",
+      "description": "Test for the virus causing COVID-19."
+    },
+    {
+      "name": "Cortisol",
+      "description": "Measures cortisol levels to assess adrenal function and stress."
+    },
+    {
+      "name": "ACTH",
+      "description": "Adrenocorticotropic hormone test."
+    },
+    {
+      "name": "Aldosterone",
+      "description": "Hormone test used to evaluate adrenal function and blood pressure regulation."
+    },
+    {
+      "name": "Renin",
+      "description": "Enzyme involved in blood pressure and electrolyte balance."
+    },
+    {
+      "name": "Insulin",
+      "description": "Hormone that regulates blood glucose levels."
+    },
+    {
+      "name": "C-Peptide",
+      "description": "Indicator of insulin production."
+    },
+    {
+      "name": "Urine Protein",
+      "description": "Test for protein in the urine, which may indicate kidney damage."
+    },
+    {
+      "name": "Microalbumin",
+      "description": "Detects small amounts of albumin in urine as an early marker of kidney damage."
+    },
+    {
+      "name": "Urine Creatinine",
+      "description": "Measures creatinine in urine to assess kidney function."
+    },
+    {
+      "name": "Coagulation Panel",
+      "description": "A group of tests including PT, aPTT, and fibrinogen to assess blood clotting."
+    },
+    {
+      "name": "Prothrombin Time (PT)",
+      "description": "Measures the time it takes for blood to clot."
+    },
+    {
+      "name": "Activated Partial Thromboplastin Time (aPTT)",
+      "description": "Assesses the intrinsic pathway of coagulation."
+    },
+    {
+      "name": "Fibrinogen",
+      "description": "Measures the level of fibrinogen, a key clotting factor."
+    },
+    {
+      "name": "Lactate",
+      "description": "Measures blood lactate levels, which may indicate tissue hypoxia."
+    },
+    {
+      "name": "Vitamin A",
+      "description": "Measures Vitamin A levels, important for vision and immune function."
+    },
+    {
+      "name": "Vitamin E",
+      "description": "Measures Vitamin E levels, an antioxidant."
+    },
+    {
+      "name": "Copper",
+      "description": "Measures blood copper levels, important for enzymatic reactions."
+    },
+    {
+      "name": "Zinc",
+      "description": "Measures blood zinc levels, essential for immune function and metabolism."
+    },
+    {
+      "name": "Selenium",
+      "description": "Measures selenium, a trace element with antioxidant properties."
+    },
+    {
+      "name": "Amylase",
+      "description": "Enzyme test used to evaluate pancreatic function."
+    },
+    {
+      "name": "Lipase",
+      "description": "Enzyme test for pancreatic function, often used with amylase."
+    },
+    {
+      "name": "Creatine Kinase (CK)",
+      "description": "Measures creatine kinase, an enzyme related to muscle damage."
+    },
+    {
+      "name": "Myoglobin",
+      "description": "Measures myoglobin levels, which increase with muscle damage."
+    },
+    {
+      "name": "LDH",
+      "description": "Lactate dehydrogenase; elevated levels may indicate tissue damage."
+    },
+    {
+      "name": "Homocysteine",
+      "description": "An amino acid whose elevated levels are associated with cardiovascular risk."
+    },
+    {
+      "name": "Cystatin C",
+      "description": "A sensitive marker of kidney function."
+    },
+    {
+      "name": "Ceruloplasmin",
+      "description": "A copper-carrying protein; low levels may indicate Wilson's disease."
+    },
+    {
+      "name": "Beta-2 Microglobulin",
+      "description": "May be elevated in multiple myeloma and kidney dysfunction."
+    },
+    {
+      "name": "Serum Osmolality",
+      "description": "Assesses the concentration of solutes in the blood."
+    },
+    {
+      "name": "Urine Osmolality",
+      "description": "Measures urine concentration; used to evaluate kidney function and hydration status."
+    },
+    {
+      "name": "Uric Acid",
+      "description": "Used to assess risk for gout and evaluate kidney function."
+    },
+    {
+      "name": "Lipoprotein(a)",
+      "description": "A lipoprotein linked with atherosclerosis risk."
+    },
+    {
+      "name": "Apolipoprotein A1",
+      "description": "The main protein component of HDL cholesterol."
+    },
+    {
+      "name": "Apolipoprotein B",
+      "description": "The primary protein in LDL cholesterol; used to assess cardiovascular risk."
+    },
+    {
+      "name": "Growth Hormone",
+      "description": "Used to diagnose growth disorders and assess pituitary function."
+    },
+    {
+      "name": "IGF-1",
+      "description": "Reflects growth hormone activity."
+    },
+    {
+      "name": "Parathyroid Hormone (PTH)",
+      "description": "Regulates calcium and phosphate balance; used in evaluating parathyroid function."
+    },
+    {
+      "name": "Calcitonin",
+      "description": "Helps regulate calcium levels; may be used in thyroid cancer screening."
+    },
+    {
+      "name": "Vitamin B1 (Thiamine)",
+      "description": "Essential for carbohydrate metabolism; deficiency leads to beriberi."
+    },
+    {
+      "name": "Vitamin B6 (Pyridoxine)",
+      "description": "Involved in amino acid metabolism and neurotransmitter synthesis."
+    },
+    {
+      "name": "Vitamin B2 (Riboflavin)",
+      "description": "Important for energy production and cellular function."
+    },
+    {
+      "name": "Vitamin B3 (Niacin)",
+      "description": "Involved in metabolism and DNA repair."
+    },
+    {
+      "name": "Vitamin B5 (Pantothenic Acid)",
+      "description": "Essential for synthesizing coenzyme A and energy metabolism."
+    },
+    {
+      "name": "Vitamin B7 (Biotin)",
+      "description": "Important for skin, hair, and metabolic functions."
+    },
+    {
+      "name": "Prostate Specific Antigen (PSA)",
+      "description": "A tumor marker used primarily for screening prostate cancer."
+    },
+    {
+      "name": "Free PSA",
+      "description": "Measures the unbound fraction of PSA in the blood."
+    },
+    {
+      "name": "CA 125",
+      "description": "A tumor marker used in ovarian cancer screening."
+    },
+    {
+      "name": "CA 19-9",
+      "description": "A tumor marker used primarily for pancreatic cancer."
+    },
+    {
+      "name": "CA 15-3",
+      "description": "A tumor marker used for breast cancer monitoring."
+    },
+    {
+      "name": "Alpha-Fetoprotein (AFP)",
+      "description": "A tumor marker used in liver cancer and germ cell tumor screening."
+    },
+    {
+      "name": "Beta-hCG",
+      "description": "Human chorionic gonadotropin; used in pregnancy tests and as a tumor marker."
+    },
+    {
+      "name": "Carcinoembryonic Antigen (CEA)",
+      "description": "A tumor marker used in colorectal and other cancers."
+    },
+    {
+      "name": "CA 27-29",
+      "description": "A tumor marker used in breast cancer monitoring."
+    },
+    {
+      "name": "Serum Transferrin Receptor",
+      "description": "Assesses iron status and erythropoiesis."
+    },
+    {
+      "name": "hs-CRP",
+      "description": "High sensitivity C-reactive protein, used for cardiovascular risk assessment."
+    },
+    {
+      "name": "Serum IgG",
+      "description": "Measures the level of immunoglobulin G in the blood."
+    },
+    {
+      "name": "Serum IgA",
+      "description": "Measures the level of immunoglobulin A in the blood."
+    },
+    {
+      "name": "Serum IgM",
+      "description": "Measures the level of immunoglobulin M in the blood."
+    },
+    {
+      "name": "Serum IgE",
+      "description": "Measures the level of immunoglobulin E, often associated with allergies."
+    },
+    {
+      "name": "Complement C3",
+      "description": "A protein of the complement system, part of immune defense."
+    },
+    {
+      "name": "Complement C4",
+      "description": "A protein of the complement system, part of immune defense."
+    },
+    {
+      "name": "CH50",
+      "description": "Measures total hemolytic complement activity."
+    },
+    {
+      "name": "Anti-dsDNA",
+      "description": "Antibody against double-stranded DNA, used in lupus diagnosis."
+    },
+    {
+      "name": "Anti-Smith antibody",
+      "description": "A highly specific antibody for systemic lupus erythematosus."
+    },
+    {
+      "name": "Anti-Ro/SSA antibody",
+      "description": "Associated with Sjögren's syndrome and lupus."
+    },
+    {
+      "name": "Anti-La/SSB antibody",
+      "description": "Associated with Sjögren's syndrome."
+    },
+    {
+      "name": "Anti-U1 RNP antibody",
+      "description": "Associated with mixed connective tissue disease."
+    },
+    {
+      "name": "Anti-Jo-1 antibody",
+      "description": "Associated with polymyositis and dermatomyositis."
+    },
+    {
+      "name": "Von Willebrand Factor Antigen",
+      "description": "Measures levels of von Willebrand factor for bleeding disorders."
+    },
+    {
+      "name": "Factor VIII assay",
+      "description": "Measures the activity of clotting factor VIII."
+    },
+    {
+      "name": "Fibrin Degradation Products (FDP)",
+      "description": "Indicates the breakdown of fibrin, used in clotting assessments."
+    },
+    {
+      "name": "Lipoprotein-associated phospholipase A2 (Lp-PLA2)",
+      "description": "A marker associated with cardiovascular risk."
+    },
+    {
+      "name": "1,25-dihydroxyvitamin D",
+      "description": "The active form of vitamin D."
+    },
+    {
+      "name": "Serum Free Light Chains (Kappa)",
+      "description": "Assesses plasma cell disorders."
+    },
+    {
+      "name": "Serum Free Light Chains (Lambda)",
+      "description": "Assesses plasma cell disorders."
+    },
+    {
+      "name": "Immunofixation Electrophoresis",
+      "description": "Used to detect monoclonal proteins in blood or urine."
+    },
+    {
+      "name": "Soluble IL-2 Receptor",
+      "description": "A marker of T-cell activation."
+    },
+    {
+      "name": "Serum Tryptase",
+      "description": "Used to assess mast cell activation."
+    },
+    {
+      "name": "Urine Catecholamines",
+      "description": "Measures epinephrine, norepinephrine, and dopamine levels."
+    },
+    {
+      "name": "24-Hour Urine Metanephrines",
+      "description": "Used to diagnose pheochromocytoma."
+    },
+    {
+      "name": "24-Hour Urine Vanillylmandelic Acid (VMA)",
+      "description": "Used to diagnose pheochromocytoma."
+    },
+    {
+      "name": "Neuron-Specific Enolase (NSE)",
+      "description": "A marker for neuroendocrine tumors."
+    },
+    {
+      "name": "Fecal Calprotectin",
+      "description": "Assesses intestinal inflammation."
+    },
+    {
+      "name": "Stool Elastase",
+      "description": "Evaluates exocrine pancreatic function."
+    },
+    {
+      "name": "H. pylori Stool Antigen",
+      "description": "Detects Helicobacter pylori infection in stool."
+    },
+    {
+      "name": "Serum Pepsinogen I",
+      "description": "Used in gastric cancer screening."
+    },
+    {
+      "name": "Serum Pepsinogen II",
+      "description": "Used along with Pepsinogen I to assess gastric mucosal health."
+    },
+    {
+      "name": "Anti-Parietal Cell Antibody",
+      "description": "Used in the evaluation of autoimmune gastritis."
+    },
+    {
+      "name": "Intrinsic Factor Antibody",
+      "description": "Used to diagnose pernicious anemia."
+    },
+    {
+      "name": "Serum Osteocalcin",
+      "description": "A marker of bone formation."
+    },
+    {
+      "name": "Bone-specific Alkaline Phosphatase",
+      "description": "Indicates bone formation activity."
+    },
+    {
+      "name": "Serum CTX (C-terminal Telopeptide)",
+      "description": "A marker of bone resorption."
+    },
+    {
+      "name": "P1NP (Procollagen Type 1 N-Terminal Propeptide)",
+      "description": "A marker of bone formation."
+    },
+    {
+      "name": "Plasma Renin Activity",
+      "description": "Assesses renin levels to evaluate kidney function and blood pressure regulation."
+    },
+    {
+      "name": "Cortisol-Binding Globulin",
+      "description": "Binds cortisol; alterations can affect total cortisol measurements."
+    },
+    {
+      "name": "Serum Free Cortisol",
+      "description": "Measures biologically active cortisol in the blood."
+    },
+    {
+      "name": "Salivary Cortisol",
+      "description": "Non-invasive measure of cortisol levels."
+    },
+    {
+      "name": "24-Hour Urinary Free Cortisol",
+      "description": "Assesses cortisol secretion over a full day."
+    },
+    {
+      "name": "DHEA-S (Dehydroepiandrosterone Sulfate)",
+      "description": "A marker of adrenal function."
+    },
+    {
+      "name": "Total Testosterone",
+      "description": "Measures the total testosterone level in the blood."
+    },
+    {
+      "name": "Free Testosterone",
+      "description": "Measures the unbound testosterone in the blood."
+    },
+    {
+      "name": "Estradiol",
+      "description": "Primary estrogen; used in various hormonal assessments."
+    },
+    {
+      "name": "Progesterone",
+      "description": "A key hormone in female reproduction."
+    },
+    {
+      "name": "Luteinizing Hormone (LH)",
+      "description": "Regulates ovulation and testosterone production."
+    },
+    {
+      "name": "Follicle-Stimulating Hormone (FSH)",
+      "description": "Regulates reproductive processes."
+    },
+    {
+      "name": "Prolactin",
+      "description": "Hormone involved in lactation and reproductive health."
+    },
+    {
+      "name": "Anti-Müllerian Hormone (AMH)",
+      "description": "Used to assess ovarian reserve."
+    },
+    {
+      "name": "Chromogranin A",
+      "description": "A marker for neuroendocrine tumors."
+    },
+    {
+      "name": "Serum IL-6",
+      "description": "A pro-inflammatory cytokine."
+    },
+    {
+      "name": "Serum TNF-alpha",
+      "description": "A pro-inflammatory cytokine."
+    },
+    {
+      "name": "Serum Interferon-gamma",
+      "description": "A cytokine important in immune responses."
+    },
+    {
+      "name": "Serum Bile Acids",
+      "description": "Used to assess liver function and cholestasis."
+    },
+    {
+      "name": "Apolipoprotein E",
+      "description": "Involved in lipid metabolism and linked with Alzheimer’s risk."
+    },
+    {
+      "name": "Apolipoprotein C-III",
+      "description": "Involved in triglyceride metabolism."
+    },
+    {
+      "name": "Urine 5-HIAA",
+      "description": "A metabolite of serotonin used in the evaluation of carcinoid syndrome."
+    },
+    {
+      "name": "Serum Adiponectin",
+      "description": "A hormone involved in glucose regulation and fatty acid oxidation."
+    },
+    {
+      "name": "Serum Leptin",
+      "description": "A hormone that regulates appetite and energy balance."
+    },
+    {
+      "name": "Plasma Endothelin-1",
+      "description": "A potent vasoconstrictor; a marker for cardiovascular disease."
+    },
+    {
+      "name": "Serum Osteopontin",
+      "description": "A glycoprotein associated with inflammation and cancer."
+    },
+    {
+      "name": "Matrix Metalloproteinase-9 (MMP-9)",
+      "description": "An enzyme involved in tissue remodeling."
+    },
+    {
+      "name": "Urine Albumin-to-Creatinine Ratio (ACR)",
+      "description": "Used to assess kidney damage."
+    },
+    {
+      "name": "Soluble Urokinase Plasminogen Activator Receptor (suPAR)",
+      "description": "A marker of immune activation and inflammation."
+    },
+    {
+      "name": "Plasma Copeptin",
+      "description": "A surrogate marker for vasopressin release."
+    },
+    {
+      "name": "Vitamin D Binding Protein",
+      "description": "The main carrier protein for vitamin D in circulation."
+    },
+    {
+      "name": "Granulocyte Colony-Stimulating Factor (G-CSF)",
+      "description": "Stimulates the production of white blood cells."
+    },
+    {
+      "name": "Granulocyte-Macrophage Colony-Stimulating Factor (GM-CSF)",
+      "description": "Stimulates the production of white blood cells and macrophages."
+    },
+    {
+      "name": "Adrenomedullin",
+      "description": "A peptide involved in vasodilation and cardiovascular regulation."
+    },
+    {
+      "name": "Beta-Endorphin",
+      "description": "An endogenous opioid peptide."
+    },
+    {
+      "name": "Calcitonin Gene-Related Peptide (CGRP)",
+      "description": "A peptide involved in vasodilation and pain transmission."
+    },
+    {
+      "name": "Vascular Endothelial Growth Factor (VEGF)",
+      "description": "A protein that stimulates blood vessel formation."
+    },
+    {
+      "name": "Soluble VEGF Receptor",
+      "description": "Binds VEGF and modulates its activity."
+    },
+    {
+      "name": "Osteoprotegerin",
+      "description": "Regulates bone metabolism by inhibiting osteoclast differentiation."
+    },
+    {
+      "name": "IgG Subclasses",
+      "description": "Measurement of IgG1, IgG2, IgG3, and IgG4 levels."
+    },
+    {
+      "name": "Serum Soluble IL-6 Receptor",
+      "description": "The receptor for IL-6 in soluble form."
+    },
+    {
+      "name": "Serum C-Reactive Protein High Sensitivity (hs-CRP)",
+      "description": "A more sensitive measurement of CRP for cardiovascular risk."
+    },
+    {
+      "name": "Serum Interleukin-1 beta (IL-1β)",
+      "description": "A pro-inflammatory cytokine."
+    },
+    {
+      "name": "Serum Interleukin-8 (IL-8)",
+      "description": "A cytokine involved in neutrophil activation."
+    },
+    {
+      "name": "Serum Interleukin-10 (IL-10)",
+      "description": "An anti-inflammatory cytokine."
+    },
+    {
+      "name": "Urine 24-Hour Protein",
+      "description": "Measures total protein excretion in urine over 24 hours."
+    },
+    {
+      "name": "Urine Microalbumin-to-Creatinine Ratio",
+      "description": "Assesses kidney damage by measuring albumin relative to creatinine."
+    },
+    {
+      "name": "Serum Myeloperoxidase (MPO)",
+      "description": "An enzyme involved in inflammation and oxidative stress."
+    },
+    {
+      "name": "Serum Beta-D-Glucan",
+      "description": "A marker for invasive fungal infections."
+    },
+    {
+      "name": "Serum Soluble CD163",
+      "description": "A marker of macrophage activation."
+    },
+    {
+      "name": "Serum Soluble CD14",
+      "description": "A marker of monocyte activation."
+    },
+    {
+      "name": "Parathyroid Hormone-related Protein",
+      "description": "Used in the evaluation of certain cancers and hypercalcemia."
+    },
+    {
+      "name": "Serum Matrix Metalloproteinase-2 (MMP-2)",
+      "description": "Enzyme involved in tissue remodeling."
+    },
+    {
+      "name": "Serum Matrix Metalloproteinase-3 (MMP-3)",
+      "description": "Enzyme involved in tissue remodeling and inflammation."
+    },
+    {
+      "name": "Plasma Growth Differentiation Factor 15 (GDF-15)",
+      "description": "A marker associated with cellular stress and cardiovascular risk."
+    },
+    {
+      "name": "Serum NT-proCNP",
+      "description": "N-terminal pro C-type natriuretic peptide; involved in bone metabolism."
+    },
+    {
+      "name": "Serum Soluble CD40 Ligand",
+      "description": "A marker associated with immune activation and inflammation."
+    },
+    {
+      "name": "Serum Soluble Fas Ligand",
+      "description": "A marker of cell apoptosis."
+    },
+    {
+      "name": "Serum VCAM-1",
+      "description": "Vascular cell adhesion molecule-1; involved in leukocyte-endothelial adhesion."
+    },
+    {
+      "name": "Serum ICAM-1",
+      "description": "Intercellular adhesion molecule-1; plays a role in inflammation."
+    },
+    {
+      "name": "Serum E-selectin",
+      "description": "An adhesion molecule involved in endothelial activation."
+    },
+    {
+      "name": "Serum P-selectin",
+      "description": "An adhesion molecule involved in platelet aggregation."
+    },
+    {
+      "name": "Serum Matrix Metalloproteinase-7 (MMP-7)",
+      "description": "Enzyme involved in extracellular matrix remodeling."
+    },
+    {
+      "name": "Serum Matrix Metalloproteinase-8 (MMP-8)",
+      "description": "Enzyme primarily released by neutrophils."
+    },
+    {
+      "name": "Urinary N-telopeptide (NTX)",
+      "description": "Marker of bone resorption."
+    },
+    {
+      "name": "24-Hour Creatinine Clearance",
+      "description": "Measures kidney function by assessing creatinine clearance over 24 hours."
+    },
+    {
+      "name": "Urine Beta-2 Microglobulin",
+      "description": "A marker of tubular kidney damage."
+    },
+    {
+      "name": "Urine N-acetyl-beta-D-glucosaminidase (NAG)",
+      "description": "An enzyme indicating tubular damage in the kidneys."
+    },
+    {
+      "name": "Serum Soluble CD30",
+      "description": "A marker associated with lymphocyte activation."
+    },
+    {
+      "name": "Serum Soluble CD40",
+      "description": "A co-stimulatory protein involved in immune regulation."
+    },
+    {
+      "name": "Serum Soluble Fas",
+      "description": "A marker of cell apoptosis regulation."
+    },
+    {
+      "name": "Serum Soluble TNF Receptor 1 (sTNFR1)",
+      "description": "Reflects TNF-alpha activity."
+    },
+    {
+      "name": "Serum Soluble TNF Receptor 2 (sTNFR2)",
+      "description": "Reflects TNF-alpha activity."
+    },
+    {
+      "name": "Serum Homocitrulline",
+      "description": "A modified amino acid that may be linked to protein damage."
+    },
+    {
+      "name": "Beta-hydroxybutyrate",
+      "description": "A ketone body used to assess ketosis and diabetic ketoacidosis."
+    }
+  ]
+}

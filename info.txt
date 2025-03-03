@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=med.ico --add-data "gui_config.json;." --add-data "feedback.json;." --add-data "lab_tests.json;." --add-data "symptoms.json;." --add-data "list_all_labtest.py;." --add-data "list_down_disease.py;." main.py

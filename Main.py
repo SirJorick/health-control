@@ -1,3 +1,15 @@
+import sys
+import os
+
+def resource_path(relative_path):
+    """Get absolute path to resource, works for dev and for PyInstaller."""
+    try:
+        # PyInstaller creates a temporary folder and stores path in _MEIPASS
+        base_path = sys._MEIPASS
+    except Exception:
+        base_path = os.path.abspath(".")
+    return os.path.join(base_path, relative_path)
+
 import tkinter as tk
 from tkinter import ttk, messagebox
 import tkinter.font as tkfont
@@ -807,8 +819,7 @@ def on_speak_toggle_changed(*args):
     if not speak_enabled_var.get():
         stop_current_speech()
 
-# --- Load Disease Data ---
-with open("symptoms.json", "r", encoding="utf-8") as f:
+with open(resource_path("symptoms.json"), "r", encoding="utf-8") as f:
     disease_data = json.load(f)
 
 # Build the symptom options list in uppercase (avoiding duplicates)
